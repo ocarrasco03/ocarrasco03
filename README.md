@@ -5,8 +5,11 @@
   <h3>Fullstack Developer</h3>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## Resume
 
+Fullstack Developer with extensive experience on analysis and development of web applications. Also, with experience working with e2e testing and test automation. Expecting keep learning and expand my experience on new technologies.
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
@@ -22,7 +25,6 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=jdk&logoColor=white)
    
-    
 - 🎨 Frameworks
 
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -45,11 +47,10 @@
     
 - 💾 Databases:
 
-    
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    ![DB2](https://img.shields.io/badge/DB2-00000F?style=for-the-badge&logo=db2&logoColor=white)  
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-    
     
 - 🎛️ Application and Tools:
 
